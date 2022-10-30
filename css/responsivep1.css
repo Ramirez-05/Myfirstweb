@@ -1,0 +1,227 @@
+@media (min-width : 320px ) and (max-width : 767px) {
+    header, nav{
+        width: 100%;
+    }
+
+    .section_1{
+        width: 100%;
+        text-align: center;
+    }
+
+    .section_2{
+        width: 100%;
+    }
+
+    .imagen1{
+        width: 100%;
+        margin: auto;
+    }
+
+    .carton1{
+        width: 100%;
+        margin: auto;
+    }
+    
+    .texto_1{
+        font-size: 2em;
+        text-align: center;
+        width: 100%;
+        font-weight: bold;
+        margin-top: 1em;
+
+    }
+
+    .texto_2{
+        width: 80%;
+        font-size: 1em;
+        font-weight: bold;
+        text-align: center;
+        margin: 2em;
+    }
+
+    .section_3{
+        border-top: 3px solid white;
+    }
+
+    .texto_3{
+        width: 95%;
+        text-align: center;
+        margin: auto;
+        margin-top: 3em;
+    }
+
+    .video_1{
+        width: 100%;
+        margin-top: 3em;
+    }
+
+    .caja1{
+        width: 98%;
+    }
+
+    .carta1{
+        width: 90%;
+        margin: auto;
+    }
+
+    .modales1{
+        width: 100%;
+        margin-top: 3em;
+        margin-bottom: 3em;
+        text-align: center;
+    }
+
+    
+}
+
+@media (min-width : 768px ) and (max-width : 1440px) {
+
+    header, nav{
+        width: 100%;
+    }
+
+    .section_1{
+        width: 100%;
+        text-align: center;
+    }
+
+    .section_2{
+        width: 100%;
+    }
+
+    .imagen1{
+        width: 100%;
+        margin: auto;
+    }
+
+    .carton1{
+        width: 90%;
+        margin: auto;
+    }
+
+    .texto_1{
+        font-size: 2em;
+        text-align: center;
+        width: 100%;
+        font-weight: bold;
+        margin-top: 1em;
+    }
+
+    .texto_2{
+        width: 80%;
+        font-size: 1em;
+        font-weight: bold;
+        text-align: center;
+        margin: 2em;
+    }
+
+    .section_3{
+        border-top: 3px solid white;
+    }
+
+    .texto_3{
+        width: 100%;
+        text-align: center;
+        margin: auto;
+        margin-top: 3em;
+    }
+
+    .video_1{
+        width: 70%;
+        margin-top: 3em;
+    }
+
+    .caja1{
+        width: 100%;
+    }
+
+    .carta1{
+        width: 30%;
+    }
+
+    .modales1{
+        width: 40%;
+        margin-top: 3em;
+        margin-bottom: 3em;
+        text-align: center;
+    }
+}
+
+@media (min-width : 1441px ) and (max-width : 2560px) {
+
+    header, nav{
+        width: 100%;
+    }
+
+    .section_1{
+        width: 100%;
+        text-align: center;
+    }
+
+    .section_2{
+        width: 100%;
+    }
+
+    .imagen1{
+        width: 100%;
+        margin: auto;
+    }
+
+    .carton1{
+        width: 90%;
+        margin: auto;
+    }
+
+    .texto_1{
+        font-size: 2em;
+        text-align: center;
+        width: 100%;
+        font-weight: bold;
+        margin-top: 1em;
+
+    }
+
+    .texto_2{
+        width: 80%;
+        font-size: 1em;
+        font-weight: bold;
+        text-align: center;
+        margin: 2em;
+    }
+
+    .section_3{
+        border-top: 3px solid white;
+    }
+
+    .texto_3{
+        width: 100%;
+        text-align: center;
+        margin: auto;
+        margin-top: 3em;
+    }
+
+    .video_1{
+        width: 70%;
+        margin-top: 3em;
+    }
+
+    .caja1{
+        width: 100%;
+    }
+
+    .carta1{
+        width: 30%;
+    }
+
+    .modales1{
+        width: 40%;
+        margin-top: 3em;
+        margin-bottom: 3em;
+        text-align: center;
+    }
+
+}
+
+
+
+

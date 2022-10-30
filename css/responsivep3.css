@@ -1,0 +1,45 @@
+@media (min-width : 320px ) and (max-width : 767px) {
+
+    header, nav{
+        width: 100%;
+    }
+
+    .imagen1{
+        width: 100%;
+    }
+
+    .imagen2{
+        width: 100%;
+    }
+}
+
+@media (min-width : 768px ) and (max-width : 1440px) {
+
+    header, nav{
+        width: 100%;
+    }
+
+    .imagen1{
+        width: 80%;
+    }
+
+    .imagen2{
+        width: 100%;
+    }
+}
+
+@media (min-width : 1440px ) and (max-width : 2560px) {
+
+    header, nav{
+        width: 100%;
+    }
+
+    .imagen1{
+        width: 60%;
+    }
+
+    .imagen2{
+        width: 100%;
+    }
+
+}
